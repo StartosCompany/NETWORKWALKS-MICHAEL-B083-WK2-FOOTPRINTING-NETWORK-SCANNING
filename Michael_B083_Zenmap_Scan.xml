@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?><nmaprun args="nmap -sn 192.168.1.0/24" profile_name="Ping scan" scanner="nmap" start="1794513117" startstr="Thu Nov 12 22:51:57 2026" version="7.993" xmloutputversion="1.04"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.993 ( https://nmap.org ) at 2026-11-12 22:51 +0300
+Nmap scan report for 192.168.1.1
+Host is up (0.011s latency).
+MAC Address: 98:A9:42:A4:16:1A (Tozed Kangwei Tech)
+Nmap scan report for 192.168.1.126
+Host is up (0.27s latency).
+MAC Address: 0E:CB:23:B0:73:F8 (Unknown)
+Nmap scan report for 192.168.1.132
+Host is up (0.37s latency).
+MAC Address: 5A:F9:1A:B0:F5:89 (Unknown)
+Nmap scan report for 192.168.1.148
+Host is up (0.45s latency).
+MAC Address: BA:41:EC:B9:0A:62 (Unknown)
+Nmap scan report for 192.168.1.157
+Host is up (0.45s latency).
+MAC Address: E8:51:77:C6:1B:0E (Qingdao Intelligent&amp;Precise Electronics)
+Nmap scan report for 192.168.1.159
+Host is up (0.31s latency).
+MAC Address: CA:87:68:CE:7F:DE (Unknown)
+Nmap scan report for 192.168.1.187
+Host is up (0.39s latency).
+MAC Address: 3E:BB:B2:D0:B6:3E (Unknown)
+Nmap scan report for 192.168.1.155
+Host is up.
+Nmap done: 256 IP addresses (8 hosts up) scanned in 7.19 seconds
+</output><host comment=""><status state="up"></status><address addr="192.168.1.1" vendor="" addrtype="ipv4"></address><address addr="98:A9:42:A4:16:1A" vendor="Tozed Kangwei Tech" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.126" vendor="" addrtype="ipv4"></address><address addr="0E:CB:23:B0:73:F8" vendor="" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.132" vendor="" addrtype="ipv4"></address><address addr="5A:F9:1A:B0:F5:89" vendor="" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.148" vendor="" addrtype="ipv4"></address><address addr="BA:41:EC:B9:0A:62" vendor="" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.157" vendor="" addrtype="ipv4"></address><address addr="E8:51:77:C6:1B:0E" vendor="Qingdao Intelligent&amp;Precise Electronics" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.159" vendor="" addrtype="ipv4"></address><address addr="CA:87:68:CE:7F:DE" vendor="" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.187" vendor="" addrtype="ipv4"></address><address addr="3E:BB:B2:D0:B6:3E" vendor="" addrtype="mac"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><host comment=""><status state="up"></status><address addr="192.168.1.155" vendor="" addrtype="ipv4"></address><hostnames></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><runstats><finished time="1794513124" timestr="Thu Nov 12 22:52:04 2026"></finished><hosts up="8" down="248" total="256"></hosts></runstats></nmaprun>
